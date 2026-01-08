@@ -165,7 +165,7 @@ flutter build appbundle --release
 ## 🔗 Link Download
 
 * 📦 APK / AAB: *(https://drive.google.com/drive/folders/1PvQYzQezHaxDl2_auZAl9nviGlhk1FGg?usp=sharing)*
-* 🎥 Video Presentasi: *(link YouTube)*
+* 🎥 Video Presentasi: *(https://youtu.be/qpVXjl7Tx4k))*
 
 ---
 
