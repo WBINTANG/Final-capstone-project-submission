@@ -171,5 +171,3 @@ flutter build appbundle --release
 **Project**: Final Capstone Project – Flutter (PerpusKu - Mini Library Management)
 
 ---
-
-> 📌 Repository ini dibuat untuk keperluan akademik dan pembelajaran Flutter.
