@@ -99,7 +99,7 @@ lib/
 ### Borrowing
 ![Member List](Screenshots/4_add_member_list.png)
 ![Borrow Book](Screenshots/3_borrow_book.png)
-![Hiatory](Screenshots/6_history_screen.png)
+![History](Screenshots/6_history_screen.png)
 
 ### Statistics
 ![Statistics](Screenshots/5_statistics.png)
