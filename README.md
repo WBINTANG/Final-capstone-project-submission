@@ -184,6 +184,7 @@ flutter build appbundle --release
 ## 👤 Author
 
 **Nama**: Bintang W
+**NIM**: A11.2022.14314
 **Project**: Final Capstone Project – Flutter (PerpusKu - Mini Library Management)
 
 ---
