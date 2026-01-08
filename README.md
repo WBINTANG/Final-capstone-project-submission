@@ -148,7 +148,7 @@ flutter build appbundle --release
 
 ## 🔗 Link Download
 
-* 📦 APK / AAB: *(upload ke Google Drive & tambahkan link di sini)*
+* 📦 APK / AAB: *(https://drive.google.com/drive/folders/1PvQYzQezHaxDl2_auZAl9nviGlhk1FGg?usp=sharing)*
 * 🎥 Video Presentasi: *(link YouTube)*
 
 ---
@@ -168,7 +168,7 @@ flutter build appbundle --release
 ## 👤 Author
 
 **Nama**: Bintang W
-**Project**: Final Capstone Project – Flutter
+**Project**: Final Capstone Project – Flutter (PerpusKu - Mini Library Management)
 
 ---
 
