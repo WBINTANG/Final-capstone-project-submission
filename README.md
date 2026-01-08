@@ -90,13 +90,20 @@ lib/
 
 ## 📸 Screenshot Demo Aplikasi
 
-> (Tambahkan minimal 5 screenshot berikut)
+## 📸 Screenshots
 
-* Book Catalog Screen
-* Add / Edit Book Screen
-* Member List Screen
-* Borrowing / History Screen
-* Statistics Screen (Chart)
+### Book Catalog
+![Book List](screenshots/1_book_list.png)
+![Add Book](screenshots/2_add_book.png)
+
+### Borrowing
+![Member List](screenshots/4_add_member_list.png)
+![Borrow Book](screenshots/3_borrow_book.png)
+![Hiatory](screenshots/6_history_screen.png)
+
+### Statistics
+![Statistics](screenshots/5_statistics.png)
+
 
 ---
 
