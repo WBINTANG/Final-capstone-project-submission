@@ -93,16 +93,16 @@ lib/
 ## 📸 Screenshots
 
 ### Book Catalog
-![Book List](screenshots/1_book_list.png)
-![Add Book](screenshots/2_add_book.png)
+![Book List](Screenshots/1_book_list.png)
+![Add Book](Screenshots/2_add_book.png)
 
 ### Borrowing
-![Member List](screenshots/4_add_member_list.png)
-![Borrow Book](screenshots/3_borrow_book.png)
-![Hiatory](screenshots/6_history_screen.png)
+![Member List](Screenshots/4_add_member_list.png)
+![Borrow Book](Screenshots/3_borrow_book.png)
+![Hiatory](Screenshots/6_history_screen.png)
 
 ### Statistics
-![Statistics](screenshots/5_statistics.png)
+![Statistics](Screenshots/5_statistics.png)
 
 
 ---
